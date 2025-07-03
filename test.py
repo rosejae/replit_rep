@@ -1,0 +1,1 @@
+[print(unicode) for unicode in map(ord, input().split())]
